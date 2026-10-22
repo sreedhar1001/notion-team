@@ -1,8 +1,8 @@
-# 🏛️ HyperScale AI — Team HQ
+# 🏛️ Autonomous Robotics Club — Team HQ
 
-> **🎯 Mission**: Build the single operating system for autonomous agents and developer tooling.  
-> **⚡ Current North Star**: Ship V1 public beta with 1,000 active developers and 99.9% uptime.  
-> **💡 Operating Model Research**: For an Early-Stage AI Startup, the best practices for Notion team HQ workspace structure include enforcing a small set of top-level spaces, assigning one owner per top-level space to prevent drift, and using databases instead of folders. The workspace should have a clear hierarchy with a company home linking to spaces like Product, Operations, People, and Knowledge base. Archive rather than delete and review permissions quarterly to maintain security. For AI Developer Infrastructure & Autonomous Agents OKRs norms, the sources suggest starting with a clear hierarchy and using Notion AI to draft documents, build databases, and search across connected tools to save time and improve efficiency.
+> **🎯 Mission**: Empower undergraduate students to build and compete in international robotics contests.  
+> **⚡ Current North Star**: Complete rover chassis by Q3 and qualify for national finals.  
+> **💡 Operating Model Research**: For the University Engineering Society's Robotics, Autonomous Vehicles, Hardware Hackathons OKRs norms, the sources suggest integrating OKRs into the team's primary tools and workflows, ensuring they are visible and reviewed weekly. The OKR Institute recommends making OKRs visible and reviewing them weekly with a focus on cadence and transparency. OKRs should be treated as a learning system rather than a grading system, with a retrospective at the end of each quarter to capture learnings. The sources also advise against setting OKRs in a silo and emphasize the importance of linking key results directly to tasks in the team's primary tools.
 
 ---
 

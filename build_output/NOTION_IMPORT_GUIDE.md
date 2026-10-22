@@ -4,7 +4,7 @@ This folder contains pre-built, production-ready assets grounded in live Tavily 
 
 ### Step 1: Create your Root Page
 1. Open Notion and click **+ Add a page** in the sidebar.
-2. Title it: `HyperScale AI HQ` and select **Full width** in the page menu (`...` top right).
+2. Title it: `Autonomous Robotics Club HQ` and select **Full width** in the page menu (`...` top right).
 3. Copy the markdown content from `build_output\Company_Home.md` and paste it directly into the page.
 
 ### Step 2: Import Databases

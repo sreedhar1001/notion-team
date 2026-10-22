@@ -8,7 +8,7 @@
 ---
 
 ## 1. Purpose & Objective
-This document outlines the standard operating procedures for **Engineering Git & PR Standards** within HyperScale AI. The goal is to eliminate recurring confusion, enable full async transparency, and maintain a lightweight execution cadence.
+This document outlines the standard operating procedures for **Engineering Git & PR Standards** within Autonomous Robotics Club. The goal is to eliminate recurring confusion, enable full async transparency, and maintain a lightweight execution cadence.
 
 ## 2. Prerequisites & Permissions
 - Confirmed account in team Notion workspace and communication hub.
